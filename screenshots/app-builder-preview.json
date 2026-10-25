@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "VinCave — A city beneath the surface",
+      "hasCanvas": false,
+      "bodyTextLen": 6303,
+      "bodyTextHash": "6a580a5fb74d7aacd6473024d9b166bcdb7c8fd57e11430ee7d31c85d4298fc8",
+      "bodyTextPrefix": "VINCAVE 01 FOUNDERS 02 ENERGY 03 SYSTEMS 04 HOUSING 05 BALANCE 0",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "VinCave — A city beneath the surface",
+      "hasCanvas": false,
+      "bodyTextLen": 6238,
+      "bodyTextHash": "f2e334570f1d52147a97aec6e87a8b324b40affaa6f0178fd06cd374d9f9afc4",
+      "bodyTextPrefix": "VINCAVE Contact us 22-10-2026 VINCAVE Beyond boundaries. Buildin",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
